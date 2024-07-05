@@ -1,2 +1,1 @@
-pch18/baota:clear
-btpanel/baota
+ubuntu
